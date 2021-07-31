@@ -36,6 +36,7 @@ RUN rm -rf /etc/apt/sources.list && \
 	curl \
 	vim \
 	zip \
+	actiona \
 	net-tools \
 	iputils-ping \
 	build-essential \
